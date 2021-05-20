@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Navigation from "./Navigation";
 
 type Props = {
   children: React.ReactNode;
@@ -14,9 +13,6 @@ export default function Layout({ children }: Props) {
         <link rel="apple-touch-icon" href="/icon.png" />
         <meta name="theme-color" content="#fff" />
       </Head>
-      <nav>
-        <Navigation />
-      </nav>
       <main>{children}</main>
       <style jsx>
         {`
