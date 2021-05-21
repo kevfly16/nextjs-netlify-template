@@ -1,10 +1,18 @@
 import Layout from "../components/Layout";
+import config from "../lib/config";
 
 export default function Index() {
   return (
     <Layout>
       <div className="container">
-        <div className="video" />
+        <iframe
+          width="560"
+          height="315"
+          src={config.stream_url}
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          frameBorder="0"
+          allowFullScreen
+        />
       </div>
       <style jsx>{`
         .container {
