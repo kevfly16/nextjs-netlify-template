@@ -9,6 +9,7 @@ type Config = {
   readonly twitter_account: string;
   readonly github_account: string;
   readonly stream_url: string;
+  readonly autoplay: boolean;
 };
 
 export default config as Config;

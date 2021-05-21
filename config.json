@@ -4,6 +4,7 @@
   "site_description": "Wedding stream for Roman & Michelle's wedding",
   "site_keywords": [],
   "stream_url": "https://www.youtube.com/embed/SfRj_PfmD1o",
+  "autoplay": false,
   "posts_per_page": 5,
   "twitter_account": "@",
   "github_account": "test"

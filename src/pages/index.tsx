@@ -9,7 +9,7 @@ export default function Index() {
         <iframe
           width="95%"
           height="90%"
-          src={`${config.stream_url}?autoplay=1&mute=1&enablejsapi=1`}
+          src={`${config.stream_url}${config.autoplay ? '?autoplay=1&mute=1&enablejsapi=1' : ''}`}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           frameBorder="0"
           allowFullScreen

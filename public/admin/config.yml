@@ -30,3 +30,6 @@ collections:
           - label: "Stream url"
             name: "stream_url"
             widget: "string"
+          - label: "Autoplay"
+            name: "autoplay"
+            widget: "boolean"
