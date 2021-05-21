@@ -3,7 +3,7 @@
   "twitter_account": "@",
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_keywords": [],
-  "autoplay": true,
+  "autoplay": false,
   "site_description": "Wedding stream for Roman & Michelle's wedding",
   "stream_url": "https://www.youtube.com/embed/SfRj_PfmD1o",
   "github_account": "test",
