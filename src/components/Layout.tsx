@@ -18,12 +18,13 @@ export default function Layout({ children }: Props) {
         {`
           .root {
             display: block;
-            padding: 4rem 0;
+            padding: 4rem 0 0;
             box-sizing: border-box;
             height: 100%;
           }
           main {
             display: flex;
+            flex-direction: column;
             min-height: 100%;
           }
           @media (min-width: 769px) {

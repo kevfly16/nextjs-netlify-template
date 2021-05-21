@@ -4,17 +4,23 @@ import config from "../lib/config";
 export default function Index() {
   return (
     <Layout>
+      <div className="title">{config.site_title}</div>
       <div className="container">
         <iframe
-          width="560"
-          height="315"
-          src={config.stream_url}
+          width="95%"
+          height="90%"
+          src={`${config.stream_url}?autoplay=1`}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           frameBorder="0"
           allowFullScreen
         />
       </div>
       <style jsx>{`
+        .title {
+          font-family: 'Parisienne', cursive;
+          font-size: 48px;
+          text-align: center;
+        }
         .container {
           display: flex;
           align-items: center;
