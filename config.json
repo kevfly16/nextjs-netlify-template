@@ -1,10 +1,10 @@
 {
-  "site_title": "Roman & Michelle's Wedding Stream",
+  "site_title": "Michelle & Roman's Wedding Stream",
   "twitter_account": "@",
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_keywords": [],
   "autoplay": true,
-  "site_description": "Wedding stream for Roman & Michelle's wedding",
+  "site_description": "Wedding stream for Michelle & Roman's wedding",
   "stream_url": "https://www.youtube.com/embed/SfRj_PfmD1o",
   "github_account": "test",
   "posts_per_page": 5
