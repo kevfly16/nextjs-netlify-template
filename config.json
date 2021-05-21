@@ -1,11 +1,11 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
   "site_title": "Roman & Michelle's Wedding Stream",
-  "site_description": "Wedding stream for Roman & Michelle's wedding",
-  "site_keywords": [],
-  "stream_url": "https://www.youtube.com/embed/SfRj_PfmD1o",
-  "autoplay": false,
-  "posts_per_page": 5,
   "twitter_account": "@",
-  "github_account": "test"
+  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "site_keywords": [],
+  "autoplay": true,
+  "site_description": "Wedding stream for Roman & Michelle's wedding",
+  "stream_url": "https://www.youtube.com/embed/SfRj_PfmD1o",
+  "github_account": "test",
+  "posts_per_page": 5
 }
