@@ -1,4 +1,5 @@
 import Head from "next/head";
+import config from "../lib/config";
 
 type Props = {
   children: React.ReactNode;
@@ -21,6 +22,8 @@ export default function Layout({ children }: Props) {
             padding: 4rem 0 0;
             box-sizing: border-box;
             height: 100%;
+            background-image: url('/images/${config.background_img}');
+            background-size: cover;
           }
           main {
             display: flex;

@@ -3,6 +3,7 @@
   "site_title": "Roman & Michelle's Wedding Stream",
   "site_description": "Wedding stream for Roman & Michelle's wedding",
   "site_keywords": [],
+  "background_img": "background.png",
   "stream_url": "https://www.youtube.com/embed/SfRj_PfmD1o",
   "autoplay": false,
   "posts_per_page": 5,

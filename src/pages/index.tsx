@@ -7,8 +7,8 @@ export default function Index() {
       <div className="title">{config.site_title}</div>
       <div className="container">
         <iframe
-          width="95%"
-          height="90%"
+          width="50%"
+          height="45%"
           src={`${config.stream_url}${config.autoplay ? '?autoplay=1&mute=1&enablejsapi=1' : ''}`}
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           frameBorder="0"
@@ -19,6 +19,7 @@ export default function Index() {
         .title {
           font-family: 'Parisienne', cursive;
           font-size: 48px;
+          color: white;
           text-align: center;
         }
         .container {
