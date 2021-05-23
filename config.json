@@ -5,7 +5,7 @@
   "site_keywords": [],
   "autoplay": true,
   "site_description": "Wedding stream for Michelle & Roman's wedding",
-  "stream_url": "<iframe width=\"1280\" height=\"720\" src=\"https://www.youtube.com/embed/tKN840_uYxw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "stream_url": "https://www.youtube.com/watch?v=gqpIT5sdrds",
   "github_account": "test",
   "background_img": "background.jpg",
   "posts_per_page": 5
