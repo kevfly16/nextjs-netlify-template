@@ -3,10 +3,10 @@
   "twitter_account": "@",
   "base_url": "https://michelleromanwedding.com",
   "site_keywords": [],
-  "autoplay": true,
+  "autoplay": false,
   "site_description": "Wedding stream for Michelle & Roman's wedding",
   "stream_url": "youtube.com/video/tKN840_uYxw",
   "github_account": "test",
-  "background_img": "Roman and Michelle.jpg",
+  "background_img": "roman-and-michelle.jpg",
   "posts_per_page": 5
 }
