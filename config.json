@@ -5,7 +5,7 @@
   "site_keywords": [],
   "autoplay": false,
   "site_description": " ",
-  "stream_url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aEqUPS2FbxQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+  "stream_url": "https://youtu.be/aEqUPS2FbxQ",
   "github_account": "test",
   "background_img": "roman-and-michelle.jpg",
   "posts_per_page": 5
